@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{B9094C63-EF64-494F-BC42-72FB1086647C}|">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="libapp24/homepage.aspx">
+    <Files>
+      <File FileName="libapp24/homepage.aspx" Line="35" Column="26" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="libapp24">
             <Node name="libapp24">
-              <Node name="fontawesome" expanded="True" selected="True" />
+              <Node name="homepage.aspx" selected="True" />
             </Node>
           </Node>
         </State>
