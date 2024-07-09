@@ -28,9 +28,9 @@
                   </div>
                   <div class="row">
                      <div class="col-md-6">
-                        <label>Member ID</label>
+                        <label>Username</label>
                         <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Member ID"></asp:TextBox>
+                           <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Username"></asp:TextBox>
                         </div>
                      </div>
                      <div class="col-md-6">

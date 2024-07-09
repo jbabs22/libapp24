@@ -28,18 +28,18 @@
                   </div>
                   <div class="row">
                      <div class="col-md-3">
-                        <label>Member ID</label>
+                        <label>Username</label>
                         <div class="form-group">
                            <div class="input-group">
-                              <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Member ID"></asp:TextBox>
+                              <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Username"></asp:TextBox>
                               <asp:LinkButton class="btn btn-primary" ID="LinkButton4" runat="server"><i class="fas fa-check-circle"></i></asp:LinkButton>
                            </div>
                         </div>
                      </div>
                      <div class="col-md-4">
-                        <label>Full Name</label>
+                        <label>Name</label>
                         <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Full Name" ReadOnly="True"></asp:TextBox>
+                           <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Name" ReadOnly="True"></asp:TextBox>
                         </div>
                      </div>
                      <div class="col-md-5">
@@ -55,12 +55,6 @@
                      </div>
                   </div>
                   <div class="row">
-                     <div class="col-md-3">
-                        <label>DOB</label>
-                        <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox8" runat="server" placeholder="DOB" ReadOnly="True"></asp:TextBox>
-                        </div>
-                     </div>
                      <div class="col-md-4">
                         <label>Contact No</label>
                         <div class="form-group">
@@ -68,37 +62,17 @@
                         </div>
                      </div>
                      <div class="col-md-5">
-                        <label>Email ID</label>
+                        <label>Email</label>
                         <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox4" runat="server" placeholder="Email ID" ReadOnly="True"></asp:TextBox>
+                           <asp:TextBox CssClass="form-control" ID="TextBox4" runat="server" placeholder="Email" ReadOnly="True"></asp:TextBox>
                         </div>
                      </div>
                   </div>
                   <div class="row">
-                     <div class="col-md-4">
-                        <label>State</label>
-                        <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox9" runat="server" placeholder="State" ReadOnly="True"></asp:TextBox>
-                        </div>
-                     </div>
-                     <div class="col-md-4">
-                        <label>City</label>
-                        <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox10" runat="server" placeholder="City" ReadOnly="True"></asp:TextBox>
-                        </div>
-                     </div>
                      <div class="col-md-4">
                         <label>Pin Code</label>
                         <div class="form-group">
                            <asp:TextBox CssClass="form-control" ID="TextBox11" runat="server" placeholder="Pin Code" ReadOnly="True"></asp:TextBox>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-12">
-                        <label>Full Postal Address</label>
-                        <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox6" runat="server" placeholder="Full Postal Address" TextMode="MultiLine" Rows="2" ReadOnly="True"></asp:TextBox>
                         </div>
                      </div>
                   </div>

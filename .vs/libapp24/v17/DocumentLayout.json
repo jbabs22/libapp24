@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookissue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\adminbookissue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\publishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\publishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\authormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\authormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "adminbookinventory.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookinventory.aspx",
-              "RelativeDocumentMoniker": "libapp24\\adminbookinventory.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookinventory.aspx",
-              "RelativeToolTip": "libapp24\\adminbookinventory.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:24:53.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "adminmembermanagement.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminmembermanagement.aspx",
-              "RelativeDocumentMoniker": "libapp24\\adminmembermanagement.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminmembermanagement.aspx",
-              "RelativeToolTip": "libapp24\\adminmembermanagement.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:24:18.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "adminbookissue.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookissue.aspx",
-              "RelativeDocumentMoniker": "libapp24\\adminbookissue.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminbookissue.aspx",
-              "RelativeToolTip": "libapp24\\adminbookissue.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:23:27.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "publishermanagement.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\publishermanagement.aspx",
-              "RelativeDocumentMoniker": "libapp24\\publishermanagement.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\publishermanagement.aspx",
-              "RelativeToolTip": "libapp24\\publishermanagement.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:22:24.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "authormanagement.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\authormanagement.aspx",
-              "RelativeDocumentMoniker": "libapp24\\authormanagement.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\authormanagement.aspx",
-              "RelativeToolTip": "libapp24\\authormanagement.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:21:37.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "userprofile.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\userprofile.aspx",
-              "RelativeDocumentMoniker": "libapp24\\userprofile.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\userprofile.aspx",
-              "RelativeToolTip": "libapp24\\userprofile.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:20:49.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "usersignup.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx",
-              "RelativeDocumentMoniker": "libapp24\\usersignup.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx",
-              "RelativeToolTip": "libapp24\\usersignup.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:18:54.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "adminlogin.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminlogin.aspx",
-              "RelativeDocumentMoniker": "libapp24\\adminlogin.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\adminlogin.aspx",
-              "RelativeToolTip": "libapp24\\adminlogin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T05:10:45.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "homepage.aspx",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx",
-              "RelativeDocumentMoniker": "libapp24\\homepage.aspx",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx",
-              "RelativeToolTip": "libapp24\\homepage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T04:17:39.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Site1.Master",
-              "RelativeDocumentMoniker": "libapp24\\Site1.Master",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Site1.Master",
-              "RelativeToolTip": "libapp24\\Site1.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-08T01:27:10.579Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Web.config",
+              "RelativeDocumentMoniker": "libapp24\\Web.config",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Web.config",
+              "RelativeToolTip": "libapp24\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T18:44:28.18Z",
               "EditorCaption": ""
             }
           ]

@@ -28,7 +28,7 @@
                   </div>
                   <div class="row">
                      <div class="col">
-                        <label>User Login</label>
+                        <label>Username</label>
                         <div class="form-group">
                            <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Username"></asp:TextBox>
                         </div>
