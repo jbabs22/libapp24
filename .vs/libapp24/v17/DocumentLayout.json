@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|c:\\users\\jbabcock\\source\\repos\\libapp24\\libapp24\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B9094C63-EF64-494F-BC42-72FB1086647C}|libapp24\\libapp24.csproj|solutionrelative:libapp24\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Web.config",
-              "RelativeDocumentMoniker": "libapp24\\Web.config",
-              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Web.config",
-              "RelativeToolTip": "libapp24\\Web.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-08T18:44:28.18Z",
+              "Title": "usersignup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx.cs",
+              "RelativeDocumentMoniker": "libapp24\\usersignup.aspx.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx.cs",
+              "RelativeToolTip": "libapp24\\usersignup.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:28:42.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usersignup.aspx",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx",
+              "RelativeDocumentMoniker": "libapp24\\usersignup.aspx",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\usersignup.aspx",
+              "RelativeToolTip": "libapp24\\usersignup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T17:28:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx",
+              "RelativeDocumentMoniker": "libapp24\\homepage.aspx",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\homepage.aspx",
+              "RelativeToolTip": "libapp24\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T17:17:22.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Site1.Master",
+              "RelativeDocumentMoniker": "libapp24\\Site1.Master",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\libapp24\\libapp24\\Site1.Master",
+              "RelativeToolTip": "libapp24\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T17:14:52.998Z",
               "EditorCaption": ""
             }
           ]

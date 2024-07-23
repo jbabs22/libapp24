@@ -14,8 +14,7 @@
          <div class="row">
             <div class="col-12">
                <center>
-                  <h2>Our Features</h2>
-                  <p><b>Our 3 Primary Features -</b></p>
+                  <h2>Features</h2>
                </center>
             </div>
          </div>
@@ -24,29 +23,29 @@
             <div class="col-md-4">
                <center>
                   <img width="150px" src="imgs/digital-inventory.png"/>
-                  <h4>Digital Book Inventory</h4>
-                  <p class="text-justify">Available Book Inventory</p>
+                  <h4>Book Inventory</h4>
+                  <p class="text-justify">Book Inventory</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/search-online.png"/>
+                  <img width="150px" src="imgs/searchonl2.png"/>
                   <h4>Search Books</h4>
                   <p class="text-justify">Search Books</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/defaulters-list.png"/>
-                  <h4>Default List</h4>
-                  <p class="text-justify">Default List</p>
+                  <img width="150px" src="imgs/donate1.png"/>
+                  <h4>Donate Books</h4>
+                  <p class="text-justify">Donate Books</p>
                </center>
             </div>
          </div>
       </div>
    </section>
 
-   <section>
+<%--   <section>
         <img src="imgs/in-homepage-banner.jpg" class="img-fluid"/>
    </section>
    
@@ -56,8 +55,8 @@
           <div class="row">
             <div class="col-12">
                <center>
-                  <h2>Our Process</h2>
-                  <p><b>We have a Simple 3 Step Process</b></p>
+                  <h2>Process</h2>
+                  <p><b>Simple 3 Step Process</b></p>
                </center>
             </div>
          </div>
@@ -86,5 +85,5 @@
             </div>
          </div>
       </div>
-   </section>
+   </section>--%>
 </asp:Content>

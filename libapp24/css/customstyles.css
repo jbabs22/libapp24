@@ -1,5 +1,27 @@
-﻿.footerlinks {
-    color:#ffffff;
+﻿.nav-link {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+    
+    .nav-link:hover {
+        color: #ffd800;
+    }
+
+.navbar-brand {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .navbar-brand:hover {
+        color: #ffd800;
+    }
+
+#navbar {
+    background: #c51349;
+}    
+
+.footerlinks {
+    color: #ffffff;
     text-decoration: none !important;
 }
 
@@ -8,9 +30,14 @@
     }
 
 #footer1 {
-    background: #762b00;
+    background: #c51349;
 }
 
 #footer2 {
-    background: #531f00;
+    background: #000000;
+}
+
+.img-fluid {
+    height: auto;
+    width: 100%;
 }
